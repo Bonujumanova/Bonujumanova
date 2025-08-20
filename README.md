@@ -8,4 +8,4 @@
         <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
     </a>
 </div>
-
+<a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=%20%20%20%20Bonujumanova&theme=rose&border_radius=4&date_format=M%20j%5B%2C%20Y%5D&background=FFD1F1&border=BE53EB&stroke=789EEB&ring=58B5EB&fire=EB5D29&currStreakNum=475AEB&sideNums=475AEB&currStreakLabel=475AEB&sideLabels=58B5EB&dates=684251" alt="GitHub Streak" /></a>
